@@ -11,3 +11,4 @@ Creating a new branch --no-ff.
 
 
 ....todo
+Deal BUG..
